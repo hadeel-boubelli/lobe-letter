@@ -7,8 +7,9 @@ body {
   * Mobile styles for screens up to 414px wide (S20 and similar devices) */
 @media screen and (max-width: 414px) {
     body {
-        padding-left: 10px;  
-        padding-right: 10px; 
+        padding-left: 0px;  
+        padding-right: 0px; 
+      text-align: center;
     }
 
 }
