@@ -4,6 +4,13 @@ body {
   align-items: center;
   height: 100vh;
   background-color: #fae1dd;
+  * Mobile styles for screens up to 414px wide (S20 and similar devices) */
+@media screen and (max-width: 414px) {
+    body {
+        padding-left: 10px;  
+        padding-right: 10px; 
+    }
+
 }
 
 .container {
