@@ -52,7 +52,7 @@ body {
   width: 270px;
   height: 170px;
   top: 10px;
-  left: 25px;
+  left: 15px;
   box-shadow: -5px -5px 100px rgba(0, 0, 0, 0.4);
 }
 
@@ -63,7 +63,7 @@ body {
   border-style: dotted;
   width: 240px;
   height: 140px;
-  left: 12px;
+  left: 25px;
   top: 12px;
 }
 
